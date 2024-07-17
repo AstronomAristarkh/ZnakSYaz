@@ -1,0 +1,14 @@
+C:\Users\ipech\OneDrive\Рабочий стол\Geek\C#_final\bin\Debug\net8.0\C#_final.exe
+C:\Users\ipech\OneDrive\Рабочий стол\Geek\C#_final\bin\Debug\net8.0\C#_final.deps.json
+C:\Users\ipech\OneDrive\Рабочий стол\Geek\C#_final\bin\Debug\net8.0\C#_final.runtimeconfig.json
+C:\Users\ipech\OneDrive\Рабочий стол\Geek\C#_final\bin\Debug\net8.0\C#_final.dll
+C:\Users\ipech\OneDrive\Рабочий стол\Geek\C#_final\bin\Debug\net8.0\C#_final.pdb
+C:\Users\ipech\OneDrive\Рабочий стол\Geek\C#_final\obj\Debug\net8.0\C#_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ipech\OneDrive\Рабочий стол\Geek\C#_final\obj\Debug\net8.0\C#_final.AssemblyInfoInputs.cache
+C:\Users\ipech\OneDrive\Рабочий стол\Geek\C#_final\obj\Debug\net8.0\C#_final.AssemblyInfo.cs
+C:\Users\ipech\OneDrive\Рабочий стол\Geek\C#_final\obj\Debug\net8.0\C#_final.csproj.CoreCompileInputs.cache
+C:\Users\ipech\OneDrive\Рабочий стол\Geek\C#_final\obj\Debug\net8.0\C#_final.dll
+C:\Users\ipech\OneDrive\Рабочий стол\Geek\C#_final\obj\Debug\net8.0\refint\C#_final.dll
+C:\Users\ipech\OneDrive\Рабочий стол\Geek\C#_final\obj\Debug\net8.0\C#_final.pdb
+C:\Users\ipech\OneDrive\Рабочий стол\Geek\C#_final\obj\Debug\net8.0\C#_final.genruntimeconfig.cache
+C:\Users\ipech\OneDrive\Рабочий стол\Geek\C#_final\obj\Debug\net8.0\ref\C#_final.dll
